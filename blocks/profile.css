@@ -1,0 +1,41 @@
+.profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile__container {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.profile__avatar {
+  width: 120px;
+  height: 120px;
+}
+
+.profile__inf {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-height: 77px;
+}
+
+.profile__info-first-line {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  max-height: 39px;
+}
+
+.profile__name {
+  font-size: 42px;
+  line-height: 48px;
+  font-weight: 500;
+  max-width: 373px;
+}
+
+.profile__info-second-line {
+  font-size: 18px;
+  line-height: 21.78px;
+}
