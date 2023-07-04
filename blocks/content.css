@@ -1,7 +1,6 @@
 .content {
-  grid-area: content;
   display: flex;
   flex-direction: column;
-  margin-top: 45px;
   max-width: 880px;
+  margin: 45px auto 0;
 }

@@ -2,12 +2,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
 }
 
 .profile__container {
   display: flex;
   gap: 30px;
   align-items: center;
+  width: 100%;
 }
 .profile__avatar {
   width: 120px;
@@ -19,6 +21,7 @@
   flex-direction: column;
   gap: 16px;
   max-height: 77px;
+  width: 100%;
 }
 
 .profile__info-first-line {
@@ -26,6 +29,7 @@
   align-items: center;
   gap: 18px;
   max-height: 39px;
+  width: 100%;
 }
 
 .profile__name {
