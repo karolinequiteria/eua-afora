@@ -9,15 +9,15 @@
 @font-face {
   font-family: "Inter";
   src: url(/vendor/fonts/static/Inter-Medium.woff2) format("woff2"),
-    url(/vendor/fonts/static/Inter-Bold.woff) format("woff"),
+    url(/vendor/fonts/static/Inter-Medium.woff) format("woff"),
     url(/vendor/fonts/static/Inter-Medium.ttf) format("truetype");
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Inter";
-  src: url(/vendor/fonts/static/Inter-Bold.woff2) format("woff2"),
-    url(/vendor/fonts/static/Inter-Bold.woff) format("woff"),
-    url(/vendor/fonts/static/Inter-Bold.ttf) format("truetype");
-  font-weight: bold;
+  src: url(/vendor/fonts/static/Inter-Black.woff2) format("woff2"),
+    url(/vendor/fonts/static/Inter-Black.woff) format("woff"),
+    url(/vendor/fonts/static/Inter-Black.ttf) format("truetype");
+  font-weight: 900;
 }

@@ -17,7 +17,25 @@
 .button_type_like {
   background-color: #fff;
   max-width: 21px;
-  /* height: 19px; */
   display: flex;
   justify-content: center;
+}
+
+.button_close {
+  border: none;
+  margin: auto;
+  background-color: transparent;
+  position: absolute;
+  top: -36px;
+  right: -36px;
+}
+
+.button_save {
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 22px;
+  font-size: 18px;
+  border-radius: 2px;
+  height: 50.2px;
 }
