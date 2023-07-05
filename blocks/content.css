@@ -2,6 +2,12 @@
   display: flex;
   flex-direction: column;
   max-width: 880px;
-  margin: 45px auto 0;
+  margin: 45px 0 0;
   position: relative;
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+  .content {
+    margin: 28px 0 0;
+  }
 }
