@@ -50,4 +50,8 @@
     width: 100%;
     height: 50px;
   }
+  .button_save {
+    height: 46px;
+    font-size: 14px;
+  }
 }

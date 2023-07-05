@@ -6,6 +6,6 @@
   .footer {
     /* display: flex; */
     width: 282px;
-    margin: auto;
+    margin: 0 auto 36px;
   }
 }
