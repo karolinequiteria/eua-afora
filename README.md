@@ -14,4 +14,4 @@ Edição de Perfil: A página de perfil inclui um botão "Editar Perfil" que abr
 
 O projeto ainda está em construção e há planos para implementar novas funcionalidades no futuro.
 
-- [Link para o site -> ](https://www.figma.com/file/XfB6BSINvliub43JgKza1e/WEB.-Sprint-4.-Around-The-U.S.-desktop-%2B-mobile-pt)
+- [Link para o site -> ](https://karolinequiteria.github.io/eua-afora/)
