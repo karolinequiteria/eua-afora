@@ -2,15 +2,16 @@
 
 ### Visão geral
 
-* Figma
-* Imagens
+O objetivo principal do desse site de media social é permitir que os usuários compartilhem seus momentos através do upload de fotos e curtidas. Além disso, o projeto também inclui uma funcionalidade de edição de perfil que permite aos usuários modificar seu nome e profissão. O site está sendo desenvolvido utilizando as tecnologias web padrão, incluindo HTML, CSS e JavaScript.
 
-**Figma**
+**Funcionalidades Atuais**
 
-* [Link para o projeto no Figma](https://www.figma.com/file/XfB6BSINvliub43JgKza1e/WEB.-Sprint-4.-Around-The-U.S.-desktop-%2B-mobile-pt)
+No estágio atual do desenvolvimento, o projeto possui as seguintes funcionalidades:
 
-**Imagens**
+Edição de Perfil: A página de perfil inclui um botão "Editar Perfil" que abre um modal. Dentro do modal, os usuários podem modificar seu nome e profissão e salvar as alterações.
 
-A maneira como você fará isso no trabalho é exportando imagens diretamente do Figma — recomendamos fazer isso para praticar mais. Não se esqueça de otimizá-los [aqui](https://tinypng.com/), para que seu projeto carregue mais rápido.
+**Próximos Passos**
 
-Divirta-se com JavaScript!
+O projeto ainda está em construção e há planos para implementar novas funcionalidades no futuro.
+
+- [Link para o site -> ](https://www.figma.com/file/XfB6BSINvliub43JgKza1e/WEB.-Sprint-4.-Around-The-U.S.-desktop-%2B-mobile-pt)
