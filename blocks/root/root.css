@@ -25,4 +25,6 @@ ol {
 body {
   background-color: #000000;
   font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
 }
