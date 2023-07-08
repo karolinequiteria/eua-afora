@@ -1,0 +1,26 @@
+.button_type-close {
+  width: 40px;
+  height: 40px;
+  border: none;
+  margin: auto;
+  background-color: transparent;
+  position: absolute;
+  top: -48px;
+  right: -48px;
+  background-size: contain;
+}
+.button_type-close img {
+  width: 100%;
+}
+.button_type-close img:hover {
+  filter: opacity(0.5);
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+  .button_type-close {
+    width: 26px;
+    height: 26px;
+    top: -45px;
+    right: 0;
+  }
+}

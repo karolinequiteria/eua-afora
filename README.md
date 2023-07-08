@@ -14,4 +14,4 @@ Edição de Perfil: A página de perfil inclui um botão "Editar Perfil" que abr
 
 O projeto ainda está em construção e há planos para implementar novas funcionalidades no futuro.
 
-- [Link para o site -> ](https://karolinequiteria.github.io/eua-afora/)
+- [Link para o site -> ](https://karolinequiteria.github.io/web_project_4_ptbr/)

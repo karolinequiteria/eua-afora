@@ -1,0 +1,10 @@
+.button_type-add {
+  width: 150px;
+  height: 50px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+  .button_type-add {
+    width: 100%;
+  }
+}

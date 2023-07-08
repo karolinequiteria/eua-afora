@@ -38,12 +38,19 @@
   font-weight: 500;
   max-width: 373px;
   text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .profile__about-text {
   font-size: 18px;
   line-height: 21.78px;
+  max-width: 415px;
   font-weight: normal;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 @media screen and (min-width: 320px) and (max-width: 425px) {

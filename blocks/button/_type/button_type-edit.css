@@ -1,0 +1,17 @@
+.button_type-edit {
+  width: 24px;
+  height: 24px;
+  margin-top: 10px;
+}
+
+.button_type-edit img:hover {
+  filter: opacity(0.5);
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px) {
+  .button_type-edit {
+    width: 18px;
+    height: 18px;
+    margin-top: 0;
+  }
+}
