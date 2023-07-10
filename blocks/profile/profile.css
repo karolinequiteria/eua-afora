@@ -87,5 +87,6 @@
   .profile__about-text {
     font-size: 14px;
     line-height: 21.7817px;
+    max-width: 282px;
   }
 }
